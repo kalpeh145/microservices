@@ -1,0 +1,6 @@
+com\codedecode\microservices\VaccinationCenter\Model\RequiredResponse.class
+com\codedecode\microservices\VaccinationCenter\VaccinationCenterApplication.class
+com\codedecode\microservices\VaccinationCenter\Repos\CenterRepo.class
+com\codedecode\microservices\VaccinationCenter\controllers\VaccinationCenterController.class
+com\codedecode\microservices\VaccinationCenter\Entity\VaccinationCenter.class
+com\codedecode\microservices\VaccinationCenter\Model\Citizen.class
